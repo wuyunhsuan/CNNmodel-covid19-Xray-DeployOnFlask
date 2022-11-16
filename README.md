@@ -8,3 +8,8 @@ However, I combined train set with test set, and split data into new train/test 
 
 And after that I deploy a flask to show the prediction.
 Users can upload a xray picture and press 'predict' to show the result.
+
+**
+Covid-19 Image Dataset
+Covid19 file is too big to upload but can check on Kaggle.
+**
