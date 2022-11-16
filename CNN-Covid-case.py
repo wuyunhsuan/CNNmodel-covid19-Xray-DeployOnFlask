@@ -2,8 +2,6 @@
 reference
 Kaggle Covid-19 Image Dataset
 https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
-The original dataset seperates pics to train/test and has 3 different labels(covid/normal/Viral Pneumonia).
-However, I combined train set with test set, and split data into new train/test set randomly(with sklearn.model_selection.train_test_split).
 """
 from sklearn.model_selection import train_test_split
 import glob
